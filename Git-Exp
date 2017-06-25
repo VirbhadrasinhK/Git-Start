@@ -7,3 +7,14 @@ what about you ?
 Welcome to new github.
 
 I am Graduate student at computer and information science.
+
+
+Git commands
+
+git init //for send file from computer to  new repo
+pwd //for list
+
+git add FILENAME // For add only one file
+git add . // for all files 
+
+after all we need remote to upload files from computer to website.
